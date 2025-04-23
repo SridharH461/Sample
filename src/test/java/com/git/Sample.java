@@ -5,7 +5,7 @@ public class Sample {
 	
 		
 		private void Task1() {
-System.out.println("1");
+System.out.println("Sri");
 		}
 	
 		private void Task2() {
